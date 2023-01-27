@@ -82,7 +82,7 @@ class PdfReader:
             }
 
             # save sample info
-            all_samples[f'sample_{dialog_index}'] = sample_info
+            all_samples[f'{dialog_index}'] = sample_info
 
             # update start point
             current_start = index_end
