@@ -1,8 +1,14 @@
+#%%
+import os
 import pdfplumber
 import pandas as pd
-
-
-class PdfReader:
+import json
+from tqdm import tqdm
+#%%
+BASE_DESTINATION_PATH = 'extracted_segments_pdf'
+BASE_SOURCE_PATH = 'steno_pdfs'
+#%%
+class PDFReader:
     def __init__(self, pdf_path):
         self.pdf_path = pdf_path
         self.pdf_text = None
@@ -44,7 +50,7 @@ class PdfReader:
 
         return " ".join(pdf_text)
 
-    def extract_text_between_bolds(self, start_page: int = 0) -> pd.DataFrame:
+    def extract_text_between_bolds(self, start_page: int = 1) -> pd.DataFrame:
         """
         Create a dataframe with samples which represents text between two consecutive bold lines.
         :param start_page: page number to start
@@ -92,3 +98,28 @@ class PdfReader:
 
         # save as dataframe for csv
         return pd.DataFrame.from_dict(all_samples).T
+
+
+def save_extracted_dataframe(dataframe: pd.DataFrame, destination_path: str) -> None:
+    # dataframe.to_csv(destination_path)
+    data_frame_as_dict = dataframe.to_dict(orient = 'index')
+    destination_path += '.json'
+    with open(destination_path, 'w',  encoding = 'utf8') as f:
+        json.dump(data_frame_as_dict, f, indent = 4, ensure_ascii=False)
+
+
+def process_folder_content(year: str):
+    
+    all_pdfs = os.listdir(f"{BASE_SOURCE_PATH}/{year}")
+
+    for pdf_fname in tqdm(all_pdfs):
+        pdfreader = PDFReader(f"{BASE_SOURCE_PATH}/{year}/{pdf_fname}")
+        extracted_segments = pdfreader.extract_text_between_bolds()
+        segments_name = pdf_fname.replace('.pdf', '').replace('steno', 'seg_steno')
+        save_extracted_dataframe(extracted_segments, f"{BASE_DESTINATION_PATH}/{year}/{segments_name}")
+
+
+#%%
+for year in [2020,2021,2022]:
+    process_folder_content(str(year))
+# %%
