@@ -1,0 +1,611 @@
+{
+    "0": {
+        "day": "17",
+        "month": "ianuarie",
+        "full_date": "17_ianuarie_2022",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.01.17 ex.pdf"
+    },
+    "1": {
+        "day": "20",
+        "month": "ianuarie",
+        "full_date": "20_ianuarie_2022",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.01.20 ex_1_2.pdf"
+    },
+    "2": {
+        "day": "27",
+        "month": "ianuarie",
+        "full_date": "27_ianuarie_2022",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.01.27 ex_1.pdf"
+    },
+    "3": {
+        "day": "01",
+        "month": "februarie",
+        "full_date": "01_februarie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.02.01.pdf"
+    },
+    "4": {
+        "day": "02",
+        "month": "februarie",
+        "full_date": "02_februarie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.02.02_1_2.pdf"
+    },
+    "5": {
+        "day": "02",
+        "month": "februarie",
+        "full_date": "02_februarie_2022",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.02.02 comuna.pdf"
+    },
+    "6": {
+        "day": "07",
+        "month": "februarie",
+        "full_date": "07_februarie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.02.07.pdf"
+    },
+    "7": {
+        "day": "09",
+        "month": "februarie",
+        "full_date": "09_februarie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.02.09.pdf"
+    },
+    "8": {
+        "day": "14",
+        "month": "februarie",
+        "full_date": "14_februarie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.02.14.pdf"
+    },
+    "9": {
+        "day": "16",
+        "month": "februarie",
+        "full_date": "16_februarie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.02.16.pdf"
+    },
+    "10": {
+        "day": "21",
+        "month": "februarie",
+        "full_date": "21_februarie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.02.21.pdf"
+    },
+    "11": {
+        "day": "23",
+        "month": "februarie",
+        "full_date": "23_februarie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.02.23.pdf"
+    },
+    "12": {
+        "day": "28",
+        "month": "februarie",
+        "full_date": "28_februarie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.02.28.pdf"
+    },
+    "13": {
+        "day": "28",
+        "month": "februarie",
+        "full_date": "28_februarie_2022",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.02.28 comuna.pdf"
+    },
+    "14": {
+        "day": "02",
+        "month": "martie",
+        "full_date": "02_martie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.03.02.pdf"
+    },
+    "15": {
+        "day": "07",
+        "month": "martie",
+        "full_date": "07_martie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.03.07.pdf"
+    },
+    "16": {
+        "day": "09",
+        "month": "martie",
+        "full_date": "09_martie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.03.09.pdf"
+    },
+    "17": {
+        "day": "14",
+        "month": "martie",
+        "full_date": "14_martie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.03.14.pdf"
+    },
+    "18": {
+        "day": "21",
+        "month": "martie",
+        "full_date": "21_martie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.03.21.pdf"
+    },
+    "19": {
+        "day": "23",
+        "month": "martie",
+        "full_date": "23_martie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.03.23.pdf"
+    },
+    "20": {
+        "day": "28",
+        "month": "martie",
+        "full_date": "28_martie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.03.28.pdf"
+    },
+    "21": {
+        "day": "30",
+        "month": "martie",
+        "full_date": "30_martie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.03.30.pdf"
+    },
+    "22": {
+        "day": "04",
+        "month": "aprilie",
+        "full_date": "04_aprilie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.04.04.pdf"
+    },
+    "23": {
+        "day": "04",
+        "month": "aprilie",
+        "full_date": "04_aprilie_2022",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.04.04 comuna.pdf"
+    },
+    "24": {
+        "day": "06",
+        "month": "aprilie",
+        "full_date": "06_aprilie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.04.06.pdf"
+    },
+    "25": {
+        "day": "11",
+        "month": "aprilie",
+        "full_date": "11_aprilie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.04.11.pdf"
+    },
+    "26": {
+        "day": "13",
+        "month": "aprilie",
+        "full_date": "13_aprilie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.04.13.pdf"
+    },
+    "27": {
+        "day": "19",
+        "month": "aprilie",
+        "full_date": "19_aprilie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.04.19.pdf"
+    },
+    "28": {
+        "day": "26",
+        "month": "aprilie",
+        "full_date": "26_aprilie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.04.26.pdf"
+    },
+    "29": {
+        "day": "27",
+        "month": "aprilie",
+        "full_date": "27_aprilie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.04.27.pdf"
+    },
+    "30": {
+        "day": "02",
+        "month": "mai",
+        "full_date": "02_mai_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.05.02_1.pdf"
+    },
+    "31": {
+        "day": "03",
+        "month": "mai",
+        "full_date": "03_mai_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.05.03.pdf"
+    },
+    "32": {
+        "day": "03",
+        "month": "mai",
+        "full_date": "03_mai_2022",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.05.03 comuna.pdf"
+    },
+    "33": {
+        "day": "09",
+        "month": "mai",
+        "full_date": "09_mai_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.05.09_1_2.pdf"
+    },
+    "34": {
+        "day": "11",
+        "month": "mai",
+        "full_date": "11_mai_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.05.11.pdf"
+    },
+    "35": {
+        "day": "16",
+        "month": "mai",
+        "full_date": "16_mai_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.05.16.pdf"
+    },
+    "36": {
+        "day": "18",
+        "month": "mai",
+        "full_date": "18_mai_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.05.18_1_2_3.pdf"
+    },
+    "37": {
+        "day": "23",
+        "month": "mai",
+        "full_date": "23_mai_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.05.23.pdf"
+    },
+    "38": {
+        "day": "25",
+        "month": "mai",
+        "full_date": "25_mai_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.05.25.pdf"
+    },
+    "39": {
+        "day": "30",
+        "month": "mai",
+        "full_date": "30_mai_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.05.30.pdf"
+    },
+    "40": {
+        "day": "07",
+        "month": "iunie",
+        "full_date": "07_iunie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.06.07.pdf"
+    },
+    "41": {
+        "day": "08",
+        "month": "iunie",
+        "full_date": "08_iunie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.06.08.pdf"
+    },
+    "42": {
+        "day": "14",
+        "month": "iunie",
+        "full_date": "14_iunie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.06.14.pdf"
+    },
+    "43": {
+        "day": "15",
+        "month": "iunie",
+        "full_date": "15_iunie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.06.15_1_2_3.pdf"
+    },
+    "44": {
+        "day": "20",
+        "month": "iunie",
+        "full_date": "20_iunie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.06.20.pdf"
+    },
+    "45": {
+        "day": "22",
+        "month": "iunie",
+        "full_date": "22_iunie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.06.22_1.pdf"
+    },
+    "46": {
+        "day": "22",
+        "month": "iunie",
+        "full_date": "22_iunie_2022",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.06.22 comuna.pdf"
+    },
+    "47": {
+        "day": "27",
+        "month": "iunie",
+        "full_date": "27_iunie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.06.27.pdf"
+    },
+    "48": {
+        "day": "28",
+        "month": "iunie",
+        "full_date": "28_iunie_2022",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.06.28 comuna.pdf"
+    },
+    "49": {
+        "day": "29",
+        "month": "iunie",
+        "full_date": "29_iunie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.06.29.pdf"
+    },
+    "50": {
+        "day": "18",
+        "month": "iulie",
+        "full_date": "18_iulie_2022",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.07.18 ex_1.pdf"
+    },
+    "51": {
+        "day": "20",
+        "month": "iulie",
+        "full_date": "20_iulie_2022",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.07.20 ex_1.pdf"
+    },
+    "52": {
+        "day": "01",
+        "month": "septembrie",
+        "full_date": "01_septembrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.09.01.pdf"
+    },
+    "53": {
+        "day": "01",
+        "month": "septembrie",
+        "full_date": "01_septembrie_2022",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.09.01 comuna.pdf"
+    },
+    "54": {
+        "day": "06",
+        "month": "septembrie",
+        "full_date": "06_septembrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.09.06.pdf"
+    },
+    "55": {
+        "day": "12",
+        "month": "septembrie",
+        "full_date": "12_septembrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.09.12.pdf"
+    },
+    "56": {
+        "day": "14",
+        "month": "septembrie",
+        "full_date": "14_septembrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.09.14_1.pdf"
+    },
+    "57": {
+        "day": "19",
+        "month": "septembrie",
+        "full_date": "19_septembrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.09.19.pdf"
+    },
+    "58": {
+        "day": "21",
+        "month": "septembrie",
+        "full_date": "21_septembrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.09.21_1.pdf"
+    },
+    "59": {
+        "day": "27",
+        "month": "septembrie",
+        "full_date": "27_septembrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.09.27.pdf"
+    },
+    "60": {
+        "day": "28",
+        "month": "septembrie",
+        "full_date": "28_septembrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.09.28.pdf"
+    },
+    "61": {
+        "day": "03",
+        "month": "octombrie",
+        "full_date": "03_octombrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.10.03.pdf"
+    },
+    "62": {
+        "day": "05",
+        "month": "octombrie",
+        "full_date": "05_octombrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.10.05.pdf"
+    },
+    "63": {
+        "day": "10",
+        "month": "octombrie",
+        "full_date": "10_octombrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.10.10.pdf"
+    },
+    "64": {
+        "day": "12",
+        "month": "octombrie",
+        "full_date": "12_octombrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.10.12_1.pdf"
+    },
+    "65": {
+        "day": "17",
+        "month": "octombrie",
+        "full_date": "17_octombrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.10.17_1.pdf"
+    },
+    "66": {
+        "day": "19",
+        "month": "octombrie",
+        "full_date": "19_octombrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.10.19.pdf"
+    },
+    "67": {
+        "day": "24",
+        "month": "octombrie",
+        "full_date": "24_octombrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.10.24_1.pdf"
+    },
+    "68": {
+        "day": "26",
+        "month": "octombrie",
+        "full_date": "26_octombrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.10.26.pdf"
+    },
+    "69": {
+        "day": "31",
+        "month": "octombrie",
+        "full_date": "31_octombrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.10.31.pdf"
+    },
+    "70": {
+        "day": "07",
+        "month": "noiembrie",
+        "full_date": "07_noiembrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.11.07.pdf"
+    },
+    "71": {
+        "day": "14",
+        "month": "noiembrie",
+        "full_date": "14_noiembrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.11.14.pdf"
+    },
+    "72": {
+        "day": "14",
+        "month": "noiembrie",
+        "full_date": "14_noiembrie_2022",
+        "type": "s",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.11.14 solemna_1_2.pdf"
+    },
+    "73": {
+        "day": "21",
+        "month": "noiembrie",
+        "full_date": "21_noiembrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.11.21_1.pdf"
+    },
+    "74": {
+        "day": "23",
+        "month": "noiembrie",
+        "full_date": "23_noiembrie_2022",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.11.23 comuna.docx.pdf"
+    },
+    "75": {
+        "day": "28",
+        "month": "noiembrie",
+        "full_date": "28_noiembrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.11.28.pdf"
+    },
+    "76": {
+        "day": "28",
+        "month": "noiembrie",
+        "full_date": "28_noiembrie_2022",
+        "type": "s",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.11.28 solemna.pdf"
+    },
+    "77": {
+        "day": "05",
+        "month": "decembrie",
+        "full_date": "05_decembrie_2022",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.12.05 comuna.pdf"
+    },
+    "78": {
+        "day": "07",
+        "month": "decembrie",
+        "full_date": "07_decembrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.12.07.pdf"
+    },
+    "79": {
+        "day": "12",
+        "month": "decembrie",
+        "full_date": "12_decembrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.12.12.pdf"
+    },
+    "80": {
+        "day": "12",
+        "month": "decembrie",
+        "full_date": "12_decembrie_2022",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.12.12 comuna.pdf"
+    },
+    "81": {
+        "day": "13",
+        "month": "decembrie",
+        "full_date": "13_decembrie_2022",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.12.13 comuna.pdf"
+    },
+    "82": {
+        "day": "14",
+        "month": "decembrie",
+        "full_date": "14_decembrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.12.14.pdf"
+    },
+    "83": {
+        "day": "14",
+        "month": "decembrie",
+        "full_date": "14_decembrie_2022",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.12.14 comuna_1.pdf"
+    },
+    "84": {
+        "day": "19",
+        "month": "decembrie",
+        "full_date": "19_decembrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.12.19_1_2.pdf"
+    },
+    "85": {
+        "day": "19",
+        "month": "decembrie",
+        "full_date": "19_decembrie_2022",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.12.19 comuna_1.pdf"
+    },
+    "86": {
+        "day": "21",
+        "month": "decembrie",
+        "full_date": "21_decembrie_2022",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2022/Plen/22.12.21.pdf"
+    }
+}

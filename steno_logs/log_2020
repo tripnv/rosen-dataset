@@ -1,0 +1,520 @@
+{
+    "0": {
+        "day": "13",
+        "month": "ianuarie",
+        "full_date": "13_ianuarie_2020",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.01.13 ex.pdf"
+    },
+    "1": {
+        "day": "20",
+        "month": "ianuarie",
+        "full_date": "20_ianuarie_2020",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.01.20 ex.pdf"
+    },
+    "2": {
+        "day": "29",
+        "month": "ianuarie",
+        "full_date": "29_ianuarie_2020",
+        "type": "e",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.01.29 e.pdf"
+    },
+    "3": {
+        "day": "03",
+        "month": "februarie",
+        "full_date": "03_februarie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.02.03.pdf"
+    },
+    "4": {
+        "day": "03",
+        "month": "februarie",
+        "full_date": "03_februarie_2020",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.02.03 comuna.pdf"
+    },
+    "5": {
+        "day": "05",
+        "month": "februarie",
+        "full_date": "05_februarie_2020",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.02.05 comuna.pdf"
+    },
+    "6": {
+        "day": "10",
+        "month": "februarie",
+        "full_date": "10_februarie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.02.10.pdf"
+    },
+    "7": {
+        "day": "19",
+        "month": "februarie",
+        "full_date": "19_februarie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.02.19.pdf"
+    },
+    "8": {
+        "day": "24",
+        "month": "februarie",
+        "full_date": "24_februarie_2020",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.02.24 comuna.pdf"
+    },
+    "9": {
+        "day": "26",
+        "month": "februarie",
+        "full_date": "26_februarie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.02.26.pdf"
+    },
+    "10": {
+        "day": "02",
+        "month": "martie",
+        "full_date": "02_martie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.03.02.pdf"
+    },
+    "11": {
+        "day": "09",
+        "month": "martie",
+        "full_date": "09_martie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.03.09.pdf"
+    },
+    "12": {
+        "day": "12",
+        "month": "martie",
+        "full_date": "12_martie_2020",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.03.12 comuna.pdf"
+    },
+    "13": {
+        "day": "14",
+        "month": "martie",
+        "full_date": "14_martie_2020",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.03.14 comuna.pdf"
+    },
+    "14": {
+        "day": "19",
+        "month": "martie",
+        "full_date": "19_martie_2020",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.03.19 comuna.pdf"
+    },
+    "15": {
+        "day": "26",
+        "month": "martie",
+        "full_date": "26_martie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.03.26.pdf"
+    },
+    "16": {
+        "day": "31",
+        "month": "martie",
+        "full_date": "31_martie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.03.31.pdf"
+    },
+    "17": {
+        "day": "08",
+        "month": "aprilie",
+        "full_date": "08_aprilie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.04.08.pdf"
+    },
+    "18": {
+        "day": "15",
+        "month": "aprilie",
+        "full_date": "15_aprilie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.04.15.pdf"
+    },
+    "19": {
+        "day": "16",
+        "month": "aprilie",
+        "full_date": "16_aprilie_2020",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.04.16 comuna.pdf"
+    },
+    "20": {
+        "day": "23",
+        "month": "aprilie",
+        "full_date": "23_aprilie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.04.23.pdf"
+    },
+    "21": {
+        "day": "28",
+        "month": "aprilie",
+        "full_date": "28_aprilie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.04.28.pdf"
+    },
+    "22": {
+        "day": "29",
+        "month": "aprilie",
+        "full_date": "29_aprilie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.04.29.pdf"
+    },
+    "23": {
+        "day": "05",
+        "month": "mai",
+        "full_date": "05_mai_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.05.05.pdf"
+    },
+    "24": {
+        "day": "12",
+        "month": "mai",
+        "full_date": "12_mai_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.05.12.pdf"
+    },
+    "25": {
+        "day": "18",
+        "month": "mai",
+        "full_date": "18_mai_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.05.18.pdf"
+    },
+    "26": {
+        "day": "19",
+        "month": "mai",
+        "full_date": "19_mai_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.05.19.pdf"
+    },
+    "27": {
+        "day": "20",
+        "month": "mai",
+        "full_date": "20_mai_2020",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.05.20 comuna.pdf"
+    },
+    "28": {
+        "day": "26",
+        "month": "mai",
+        "full_date": "26_mai_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.05.26.pdf"
+    },
+    "29": {
+        "day": "27",
+        "month": "mai",
+        "full_date": "27_mai_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.05.27.pdf"
+    },
+    "30": {
+        "day": "03",
+        "month": "iunie",
+        "full_date": "03_iunie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.06.03.pdf"
+    },
+    "31": {
+        "day": "09",
+        "month": "iunie",
+        "full_date": "09_iunie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.06.09.pdf"
+    },
+    "32": {
+        "day": "10",
+        "month": "iunie",
+        "full_date": "10_iunie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.06.10.pdf"
+    },
+    "33": {
+        "day": "12",
+        "month": "iunie",
+        "full_date": "12_iunie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.06.12.pdf"
+    },
+    "34": {
+        "day": "16",
+        "month": "iunie",
+        "full_date": "16_iunie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.06.16.pdf"
+    },
+    "35": {
+        "day": "18",
+        "month": "iunie",
+        "full_date": "18_iunie_2020",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.06.18 comuna.pdf"
+    },
+    "36": {
+        "day": "23",
+        "month": "iunie",
+        "full_date": "23_iunie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.06.23.pdf"
+    },
+    "37": {
+        "day": "24",
+        "month": "iunie",
+        "full_date": "24_iunie_2020",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.06.24 comuna.pdf"
+    },
+    "38": {
+        "day": "30",
+        "month": "iunie",
+        "full_date": "30_iunie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.06.30.pdf"
+    },
+    "39": {
+        "day": "30",
+        "month": "iunie",
+        "full_date": "30_iunie_2020",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.06.30 comuna.pdf"
+    },
+    "40": {
+        "day": "01",
+        "month": "iulie",
+        "full_date": "01_iulie_2020",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.07.01 ex.pdf"
+    },
+    "41": {
+        "day": "07",
+        "month": "iulie",
+        "full_date": "07_iulie_2020",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.07.07 ex.pdf"
+    },
+    "42": {
+        "day": "08",
+        "month": "iulie",
+        "full_date": "08_iulie_2020",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.07.08 ex.pdf"
+    },
+    "43": {
+        "day": "16",
+        "month": "iulie",
+        "full_date": "16_iulie_2020",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.07.16 ex.pdf"
+    },
+    "44": {
+        "day": "21",
+        "month": "iulie",
+        "full_date": "21_iulie_2020",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.07.21.pdf"
+    },
+    "45": {
+        "day": "27",
+        "month": "iulie",
+        "full_date": "27_iulie_2020",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.07.27.pdf"
+    },
+    "46": {
+        "day": "31",
+        "month": "iulie",
+        "full_date": "31_iulie_2020",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.07.31 ex.pdf"
+    },
+    "47": {
+        "day": "11",
+        "month": "august",
+        "full_date": "11_august_2020",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.08.11 ex.pdf"
+    },
+    "48": {
+        "day": "12",
+        "month": "august",
+        "full_date": "12_august_2020",
+        "type": "e",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.08.12 comuna ex.pdf"
+    },
+    "49": {
+        "day": "20",
+        "month": "august",
+        "full_date": "20_august_2020",
+        "type": "e",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.08.20 comuna.pdf"
+    },
+    "50": {
+        "day": "21",
+        "month": "august",
+        "full_date": "21_august_2020",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.08.21 ex.pdf"
+    },
+    "51": {
+        "day": "31",
+        "month": "august",
+        "full_date": "31_august_2020",
+        "type": "e",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.08.31 comuna.pdf"
+    },
+    "52": {
+        "day": "01",
+        "month": "septembrie",
+        "full_date": "01_septembrie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.09.01.pdf"
+    },
+    "53": {
+        "day": "02",
+        "month": "septembrie",
+        "full_date": "02_septembrie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.09.02.pdf"
+    },
+    "54": {
+        "day": "08",
+        "month": "septembrie",
+        "full_date": "08_septembrie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.09.08.pdf"
+    },
+    "55": {
+        "day": "09",
+        "month": "septembrie",
+        "full_date": "09_septembrie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.09.09.pdf"
+    },
+    "56": {
+        "day": "10",
+        "month": "septembrie",
+        "full_date": "10_septembrie_2020",
+        "type": "s",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.09.10 solemna.pdf"
+    },
+    "57": {
+        "day": "21",
+        "month": "septembrie",
+        "full_date": "21_septembrie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.09.21.pdf"
+    },
+    "58": {
+        "day": "22",
+        "month": "septembrie",
+        "full_date": "22_septembrie_2020",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.09.22 comuna.pdf"
+    },
+    "59": {
+        "day": "30",
+        "month": "septembrie",
+        "full_date": "30_septembrie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.09.30.pdf"
+    },
+    "60": {
+        "day": "07",
+        "month": "octombrie",
+        "full_date": "07_octombrie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.10.07.pdf"
+    },
+    "61": {
+        "day": "08",
+        "month": "octombrie",
+        "full_date": "08_octombrie_2020",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.10.08 comuna.pdf"
+    },
+    "62": {
+        "day": "13",
+        "month": "octombrie",
+        "full_date": "13_octombrie_2020",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.10.13 comuna.pdf"
+    },
+    "63": {
+        "day": "14",
+        "month": "octombrie",
+        "full_date": "14_octombrie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.10.14.pdf"
+    },
+    "64": {
+        "day": "20",
+        "month": "octombrie",
+        "full_date": "20_octombrie_2020",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.10.20 comuna.pdf"
+    },
+    "65": {
+        "day": "21",
+        "month": "octombrie",
+        "full_date": "21_octombrie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.10.21.pdf"
+    },
+    "66": {
+        "day": "03",
+        "month": "noiembrie",
+        "full_date": "03_noiembrie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.11.03.pdf"
+    },
+    "67": {
+        "day": "11",
+        "month": "noiembrie",
+        "full_date": "11_noiembrie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.11.11.pdf"
+    },
+    "68": {
+        "day": "21",
+        "month": "decembrie",
+        "full_date": "21_decembrie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.12.21.pdf"
+    },
+    "69": {
+        "day": "22",
+        "month": "decembrie",
+        "full_date": "22_decembrie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.12.22.pdf"
+    },
+    "70": {
+        "day": "23",
+        "month": "decembrie",
+        "full_date": "23_decembrie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.12.23.pdf"
+    },
+    "71": {
+        "day": "23",
+        "month": "decembrie",
+        "full_date": "23_decembrie_2020",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.12.23 comuna.pdf"
+    },
+    "72": {
+        "day": "28",
+        "month": "decembrie",
+        "full_date": "28_decembrie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.12.28.pdf"
+    },
+    "73": {
+        "day": "30",
+        "month": "decembrie",
+        "full_date": "30_decembrie_2020",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2020/20.12.30.pdf"
+    }
+}

@@ -1,0 +1,737 @@
+{
+    "0": {
+        "day": "08",
+        "month": "ianuarie",
+        "full_date": "08_ianuarie_2021",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2021/21.01.08 ex.pdf"
+    },
+    "1": {
+        "day": "19",
+        "month": "ianuarie",
+        "full_date": "19_ianuarie_2021",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2021/21.01.19 ex.pdf"
+    },
+    "2": {
+        "day": "25",
+        "month": "ianuarie",
+        "full_date": "25_ianuarie_2021",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2021/21.01.25 ex.pdf"
+    },
+    "3": {
+        "day": "01",
+        "month": "februarie",
+        "full_date": "01_februarie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2021/21.02.01.pdf"
+    },
+    "4": {
+        "day": "03",
+        "month": "februarie",
+        "full_date": "03_februarie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2021/21.02.03.pdf"
+    },
+    "5": {
+        "day": "08",
+        "month": "februarie",
+        "full_date": "08_februarie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme2021/21.02.08.pdf"
+    },
+    "6": {
+        "day": "10",
+        "month": "februarie",
+        "full_date": "10_februarie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.02.10.pdf"
+    },
+    "7": {
+        "day": "15",
+        "month": "februarie",
+        "full_date": "15_februarie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.02.15.pdf"
+    },
+    "8": {
+        "day": "17",
+        "month": "februarie",
+        "full_date": "17_februarie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.02.17.pdf"
+    },
+    "9": {
+        "day": "17",
+        "month": "februarie",
+        "full_date": "17_februarie_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.02.17 comuna.pdf"
+    },
+    "10": {
+        "day": "22",
+        "month": "februarie",
+        "full_date": "22_februarie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.02.22.pdf"
+    },
+    "11": {
+        "day": "23",
+        "month": "februarie",
+        "full_date": "23_februarie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.02.23.pdf"
+    },
+    "12": {
+        "day": "24",
+        "month": "februarie",
+        "full_date": "24_februarie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.02.24.pdf"
+    },
+    "13": {
+        "day": "01",
+        "month": "martie",
+        "full_date": "01_martie_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.03.01 comuna.pdf"
+    },
+    "14": {
+        "day": "02",
+        "month": "martie",
+        "full_date": "02_martie_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.03.02%20comuna.pdf"
+    },
+    "15": {
+        "day": "03",
+        "month": "martie",
+        "full_date": "03_martie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.03.03.pdf"
+    },
+    "16": {
+        "day": "08",
+        "month": "martie",
+        "full_date": "08_martie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.03.08.pdf"
+    },
+    "17": {
+        "day": "10",
+        "month": "martie",
+        "full_date": "10_martie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.03.10.pdf"
+    },
+    "18": {
+        "day": "16",
+        "month": "martie",
+        "full_date": "16_martie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.03.16.pdf"
+    },
+    "19": {
+        "day": "17",
+        "month": "martie",
+        "full_date": "17_martie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.03.17.pdf"
+    },
+    "20": {
+        "day": "22",
+        "month": "martie",
+        "full_date": "22_martie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.03.22.pdf"
+    },
+    "21": {
+        "day": "24",
+        "month": "martie",
+        "full_date": "24_martie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.03.24.pdf"
+    },
+    "22": {
+        "day": "29",
+        "month": "martie",
+        "full_date": "29_martie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.03.29.pdf"
+    },
+    "23": {
+        "day": "31",
+        "month": "martie",
+        "full_date": "31_martie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.03.31.pdf"
+    },
+    "24": {
+        "day": "06",
+        "month": "aprilie",
+        "full_date": "06_aprilie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.04.06_1_2.pdf"
+    },
+    "25": {
+        "day": "07",
+        "month": "aprilie",
+        "full_date": "07_aprilie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.04.07.pdf"
+    },
+    "26": {
+        "day": "12",
+        "month": "aprilie",
+        "full_date": "12_aprilie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.04.12.pdf"
+    },
+    "27": {
+        "day": "14",
+        "month": "aprilie",
+        "full_date": "14_aprilie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.04.14.pdf"
+    },
+    "28": {
+        "day": "19",
+        "month": "aprilie",
+        "full_date": "19_aprilie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.04.19_1_2.pdf"
+    },
+    "29": {
+        "day": "21",
+        "month": "aprilie",
+        "full_date": "21_aprilie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.04.21.pdf"
+    },
+    "30": {
+        "day": "26",
+        "month": "aprilie",
+        "full_date": "26_aprilie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.04.26_1.pdf"
+    },
+    "31": {
+        "day": "28",
+        "month": "aprilie",
+        "full_date": "28_aprilie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.04.28.pdf"
+    },
+    "32": {
+        "day": "04",
+        "month": "mai",
+        "full_date": "04_mai_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.05.04_1_2.pdf"
+    },
+    "33": {
+        "day": "05",
+        "month": "mai",
+        "full_date": "05_mai_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.05.05_1.pdf"
+    },
+    "34": {
+        "day": "10",
+        "month": "mai",
+        "full_date": "10_mai_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.05.10.pdf"
+    },
+    "35": {
+        "day": "11",
+        "month": "mai",
+        "full_date": "11_mai_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.05.11 comuna___.pdf"
+    },
+    "36": {
+        "day": "12",
+        "month": "mai",
+        "full_date": "12_mai_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.05.12.pdf"
+    },
+    "37": {
+        "day": "17",
+        "month": "mai",
+        "full_date": "17_mai_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.05.17_1.pdf"
+    },
+    "38": {
+        "day": "19",
+        "month": "mai",
+        "full_date": "19_mai_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.05.19_1.pdf"
+    },
+    "39": {
+        "day": "25",
+        "month": "mai",
+        "full_date": "25_mai_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.05.25.pdf"
+    },
+    "40": {
+        "day": "26",
+        "month": "mai",
+        "full_date": "26_mai_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.05.26.pdf"
+    },
+    "41": {
+        "day": "26",
+        "month": "mai",
+        "full_date": "26_mai_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.05.26 comuna.pdf"
+    },
+    "42": {
+        "day": "02",
+        "month": "iunie",
+        "full_date": "02_iunie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.06.02.pdf"
+    },
+    "43": {
+        "day": "07",
+        "month": "iunie",
+        "full_date": "07_iunie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.06.07.pdf"
+    },
+    "44": {
+        "day": "09",
+        "month": "iunie",
+        "full_date": "09_iunie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.06.09.pdf"
+    },
+    "45": {
+        "day": "09",
+        "month": "iunie",
+        "full_date": "09_iunie_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.06.09 comuna.pdf"
+    },
+    "46": {
+        "day": "14",
+        "month": "iunie",
+        "full_date": "14_iunie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.06.14_1_2_3_4_5.pdf"
+    },
+    "47": {
+        "day": "15",
+        "month": "iunie",
+        "full_date": "15_iunie_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.06.15 comuna_1_2_3_4_5.pdf"
+    },
+    "48": {
+        "day": "16",
+        "month": "iunie",
+        "full_date": "16_iunie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.06.16.pdf"
+    },
+    "49": {
+        "day": "16",
+        "month": "iunie",
+        "full_date": "16_iunie_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.06.16 comuna.pdf"
+    },
+    "50": {
+        "day": "22",
+        "month": "iunie",
+        "full_date": "22_iunie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.06.22.pdf"
+    },
+    "51": {
+        "day": "23",
+        "month": "iunie",
+        "full_date": "23_iunie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.06.23.pdf"
+    },
+    "52": {
+        "day": "23",
+        "month": "iunie",
+        "full_date": "23_iunie_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.06.23 comuna.pdf"
+    },
+    "53": {
+        "day": "28",
+        "month": "iunie",
+        "full_date": "28_iunie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.06.28.pdf"
+    },
+    "54": {
+        "day": "29",
+        "month": "iunie",
+        "full_date": "29_iunie_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.06.29 comuna_1_2.pdf"
+    },
+    "55": {
+        "day": "30",
+        "month": "iunie",
+        "full_date": "30_iunie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.06.30_1.pdf"
+    },
+    "56": {
+        "day": "30",
+        "month": "iunie",
+        "full_date": "30_iunie_2021",
+        "type": "s",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.06.30 solemna.pdf"
+    },
+    "57": {
+        "day": "28",
+        "month": "iulie",
+        "full_date": "28_iulie_2021",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.07.28 ex.pdf"
+    },
+    "58": {
+        "day": "04",
+        "month": "august",
+        "full_date": "04_august_2021",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.08.04 ex_1.pdf"
+    },
+    "59": {
+        "day": "10",
+        "month": "august",
+        "full_date": "10_august_2021",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.08.10 ex.pdf"
+    },
+    "60": {
+        "day": "17",
+        "month": "august",
+        "full_date": "17_august_2021",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.08.17 ex_1.pdf"
+    },
+    "61": {
+        "day": "27",
+        "month": "august",
+        "full_date": "27_august_2021",
+        "type": "ex",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.08.27 ex.pdf"
+    },
+    "62": {
+        "day": "01",
+        "month": "septembrie",
+        "full_date": "01_septembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.09.01.pdf"
+    },
+    "63": {
+        "day": "01",
+        "month": "septembrie",
+        "full_date": "01_septembrie_2021",
+        "type": "s",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.09.01 solemna.pdf"
+    },
+    "64": {
+        "day": "06",
+        "month": "septembrie",
+        "full_date": "06_septembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.09.06.pdf"
+    },
+    "65": {
+        "day": "08",
+        "month": "septembrie",
+        "full_date": "08_septembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.09.08.pdf"
+    },
+    "66": {
+        "day": "09",
+        "month": "septembrie",
+        "full_date": "09_septembrie_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.09.09 comuna_1_2.pdf"
+    },
+    "67": {
+        "day": "14",
+        "month": "septembrie",
+        "full_date": "14_septembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.09.14.pdf"
+    },
+    "68": {
+        "day": "15",
+        "month": "septembrie",
+        "full_date": "15_septembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.09.15_1.pdf"
+    },
+    "69": {
+        "day": "20",
+        "month": "septembrie",
+        "full_date": "20_septembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.09.20.pdf"
+    },
+    "70": {
+        "day": "22",
+        "month": "septembrie",
+        "full_date": "22_septembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.09.22.pdf"
+    },
+    "71": {
+        "day": "27",
+        "month": "septembrie",
+        "full_date": "27_septembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.09.27.pdf"
+    },
+    "72": {
+        "day": "29",
+        "month": "septembrie",
+        "full_date": "29_septembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.09.29.pdf"
+    },
+    "73": {
+        "day": "30",
+        "month": "septembrie",
+        "full_date": "30_septembrie_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.09.30 comuna.pdf"
+    },
+    "74": {
+        "day": "04",
+        "month": "octombrie",
+        "full_date": "04_octombrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.10.04_1_2.pdf"
+    },
+    "75": {
+        "day": "05",
+        "month": "octombrie",
+        "full_date": "05_octombrie_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.10.05 comuna_1_2.pdf"
+    },
+    "76": {
+        "day": "06",
+        "month": "octombrie",
+        "full_date": "06_octombrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.10.06_1_2_3_4.pdf"
+    },
+    "77": {
+        "day": "11",
+        "month": "octombrie",
+        "full_date": "11_octombrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.10.11_1.pdf"
+    },
+    "78": {
+        "day": "13",
+        "month": "octombrie",
+        "full_date": "13_octombrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.10.13.pdf"
+    },
+    "79": {
+        "day": "18",
+        "month": "octombrie",
+        "full_date": "18_octombrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.10.18_1.pdf"
+    },
+    "80": {
+        "day": "20",
+        "month": "octombrie",
+        "full_date": "20_octombrie_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.10.20 comuna.pdf"
+    },
+    "81": {
+        "day": "25",
+        "month": "octombrie",
+        "full_date": "25_octombrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.10.25_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19.pdf"
+    },
+    "82": {
+        "day": "27",
+        "month": "octombrie",
+        "full_date": "27_octombrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.10.27.pdf"
+    },
+    "83": {
+        "day": "03",
+        "month": "noiembrie",
+        "full_date": "03_noiembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.11.03.pdf"
+    },
+    "84": {
+        "day": "08",
+        "month": "noiembrie",
+        "full_date": "08_noiembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.11.08.pdf"
+    },
+    "85": {
+        "day": "10",
+        "month": "noiembrie",
+        "full_date": "10_noiembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.11.10.pdf"
+    },
+    "86": {
+        "day": "15",
+        "month": "noiembrie",
+        "full_date": "15_noiembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.11.15.pdf"
+    },
+    "87": {
+        "day": "15",
+        "month": "noiembrie",
+        "full_date": "15_noiembrie_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.11.15 comuna.pdf"
+    },
+    "88": {
+        "day": "17",
+        "month": "noiembrie",
+        "full_date": "17_noiembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.11.17.pdf"
+    },
+    "89": {
+        "day": "22",
+        "month": "noiembrie",
+        "full_date": "22_noiembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.11.22.pdf"
+    },
+    "90": {
+        "day": "23",
+        "month": "noiembrie",
+        "full_date": "23_noiembrie_2021",
+        "type": "(1)",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.11.23 sedinta 1.pdf"
+    },
+    "91": {
+        "day": "23",
+        "month": "noiembrie",
+        "full_date": "23_noiembrie_2021",
+        "type": "(2)",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.11.23 sedinta 2.pdf"
+    },
+    "92": {
+        "day": "24",
+        "month": "noiembrie",
+        "full_date": "24_noiembrie_2021",
+        "type": "s",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.11.24 solemna.pdf"
+    },
+    "93": {
+        "day": "25",
+        "month": "noiembrie",
+        "full_date": "25_noiembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.11.25.pdf"
+    },
+    "94": {
+        "day": "25",
+        "month": "noiembrie",
+        "full_date": "25_noiembrie_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.11.25 comuna.pdf"
+    },
+    "95": {
+        "day": "06",
+        "month": "decembrie",
+        "full_date": "06_decembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.12.06.pdf"
+    },
+    "96": {
+        "day": "06",
+        "month": "decembrie",
+        "full_date": "06_decembrie_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.12.06 comuna.pdf"
+    },
+    "97": {
+        "day": "08",
+        "month": "decembrie",
+        "full_date": "08_decembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.12.08.pdf"
+    },
+    "98": {
+        "day": "13",
+        "month": "decembrie",
+        "full_date": "13_decembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.12.13.pdf"
+    },
+    "99": {
+        "day": "14",
+        "month": "decembrie",
+        "full_date": "14_decembrie_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.12.14 comuna_1.pdf"
+    },
+    "100": {
+        "day": "15",
+        "month": "decembrie",
+        "full_date": "15_decembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.12.15_1.pdf"
+    },
+    "101": {
+        "day": "20",
+        "month": "decembrie",
+        "full_date": "20_decembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.12.20_1_2.pdf"
+    },
+    "102": {
+        "day": "22",
+        "month": "decembrie",
+        "full_date": "22_decembrie_2021",
+        "type": "normal",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.12.22.pdf"
+    },
+    "103": {
+        "day": "22",
+        "month": "decembrie",
+        "full_date": "22_decembrie_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.12.22 comuna.pdf"
+    },
+    "104": {
+        "day": "23",
+        "month": "decembrie",
+        "full_date": "23_decembrie_2021",
+        "type": "c",
+        "href": "https://senat.ro/PAGINI/Stenograme/Stenograme_2021/Plen/21.12.23 comuna_1.pdf"
+    }
+}
