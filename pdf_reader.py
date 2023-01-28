@@ -3,6 +3,7 @@ import os
 import pdfplumber
 import pandas as pd
 import json
+import multiprocessing
 from tqdm import tqdm
 #%%
 BASE_DESTINATION_PATH = 'extracted_segments_pdf'
@@ -107,16 +108,23 @@ def save_extracted_dataframe(dataframe: pd.DataFrame, destination_path: str) -> 
     with open(destination_path, 'w',  encoding = 'utf8') as f:
         json.dump(data_frame_as_dict, f, indent = 4, ensure_ascii=False)
 
+def task(pdf_fname):
+    pdfreader = PDFReader(f"{BASE_SOURCE_PATH}/{year}/{pdf_fname}")
+    extracted_segments = pdfreader.extract_text_between_bolds()
+    segments_name = pdf_fname.replace('.pdf', '').replace('steno', 'seg_steno')
+    save_extracted_dataframe(extracted_segments, f"{BASE_DESTINATION_PATH}/{year}/{segments_name}")
 
 def process_folder_content(year: str):
     
     all_pdfs = os.listdir(f"{BASE_SOURCE_PATH}/{year}")
+    with multiprocessing.Pool() as pool:
+        pool.map(task,all_pdfs)
+    # for pdf_fname in tqdm(all_pdfs):
+    #     pdfreader = PDFReader(f"{BASE_SOURCE_PATH}/{year}/{pdf_fname}")
+    #     extracted_segments = pdfreader.extract_text_between_bolds()
+    #     segments_name = pdf_fname.replace('.pdf', '').replace('steno', 'seg_steno')
+    #     save_extracted_dataframe(extracted_segments, f"{BASE_DESTINATION_PATH}/{year}/{segments_name}")
 
-    for pdf_fname in tqdm(all_pdfs):
-        pdfreader = PDFReader(f"{BASE_SOURCE_PATH}/{year}/{pdf_fname}")
-        extracted_segments = pdfreader.extract_text_between_bolds()
-        segments_name = pdf_fname.replace('.pdf', '').replace('steno', 'seg_steno')
-        save_extracted_dataframe(extracted_segments, f"{BASE_DESTINATION_PATH}/{year}/{segments_name}")
 
 
 #%%
