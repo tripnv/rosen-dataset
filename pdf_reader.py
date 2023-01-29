@@ -1,5 +1,6 @@
 #%%
 import os
+import re
 import pdfplumber
 import pandas as pd
 import json
@@ -51,6 +52,28 @@ class PDFReader:
 
         return " ".join(pdf_text)
 
+    def text_cleaning(self, text):
+        """
+
+        """
+
+        # replace spaces
+        text = re.sub("\s\s+", ' ', text)
+
+        # parenthesis
+        text = re.sub("\(.+\)", '', text)
+
+        # page number
+        text = re.sub("-\s[0-9]+\s-", '', text)
+
+        # special characters
+        text = re.sub("[#@;:<>{}`+=~|–—‒]*", '', text)
+
+        # special characters
+        text = re.sub("…", '.', text)
+
+        return text
+
     def extract_text_between_bolds(self, start_page: int = 1) -> pd.DataFrame:
         """
         Create a dataframe with samples which represents text between two consecutive bold lines.
@@ -78,6 +101,7 @@ class PDFReader:
             # crop from bold + len index
             slice_start_index = index_start + len(x)
             text = pdf_text[slice_start_index: index_end]
+            text = self.text_cleaning(text)
 
             # create sample info
             sample_info = {
@@ -128,6 +152,8 @@ def process_folder_content(year: str):
 
 
 #%%
+
 for year in [2020,2021,2022]:
     process_folder_content(str(year))
+
 # %%
