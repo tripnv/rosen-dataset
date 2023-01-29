@@ -1,11 +1,23 @@
+
+#%%
 import os
 import shutil
 import requests
 import validators
 import yt_dlp as ytdl
-from utils import pop_log
+
+import time
 
 
+def get_date():
+
+    return time.strftime("%m/%d/%Y, %H:%M:%S", time.localtime())
+
+
+def pop_log(message, level) -> None:
+
+    print(f"\t{get_date()}, [{level.upper()}]  {message}")
+#%%
 class VideoScrapper:
     def __init__(self, list_of_urls):
         self.videos_urls = self._keep_supported_urls(list_of_urls)
@@ -101,3 +113,8 @@ class VideoScrapper:
 
         with ytdl.YoutubeDL(ydl_opts) as ydl:
             ydl.download(self.videos_urls)
+
+# %%
+vs = VideoScrapper(['https://www.youtube.com/watch?v=DXhdio60n-s&list=PLkCGT1LIDo2GHysx5ODGzwJc6NmHS0YcJ'])
+vs.download_wav()
+# %%
