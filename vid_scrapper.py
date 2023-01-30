@@ -115,6 +115,6 @@ class VideoScrapper:
             ydl.download(self.videos_urls)
 
 # %%
-vs = VideoScrapper(['https://www.youtube.com/watch?v=DXhdio60n-s&list=PLkCGT1LIDo2GHysx5ODGzwJc6NmHS0YcJ'])
-vs.download_wav()
-# %%
+if __name__ == '__main__':
+    vs = VideoScrapper(['https://www.youtube.com/watch?v=DXhdio60n-s&list=PLkCGT1LIDo2GHysx5ODGzwJc6NmHS0YcJ'])
+    vs.download_wav()
