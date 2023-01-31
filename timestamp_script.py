@@ -125,7 +125,7 @@ def assign_timestamps_to_steno(steno_fpath, transcript_fpath):
         df_steno[['start', 'end']] = pd.DataFrame(df_steno['timestamp'].tolist(), index=df_steno.index)
 
         save_dataframe(df_steno, fname)
-        
+
     except:
         print(f"{fname}")
 
