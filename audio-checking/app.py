@@ -12,7 +12,7 @@ st.title("Audio selection")
 with open("audio-checking/current_idx.txt", 'r') as f:
     current_idx = int(f.read())
 
-audio_path = f'{AUDIO_FOLDER_PATH}{current_idx}.wav'
+audio_path = f'{AUDIO_FOLDER_PATH}{current_idx}.mp3'
 associated_steno_path = f'{TEXT_FOLDER_PATH}{current_idx}.json'
 
 with open(associated_steno_path, 'r') as f:
@@ -52,6 +52,7 @@ with st.form("Decision", clear_on_submit=True):
 
 
 
-    current_idx += 1
     with open("audio-checking/current_idx.txt", 'w') as f:
         f.write(str(current_idx))
+
+    current_idx += 1
