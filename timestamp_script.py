@@ -32,6 +32,9 @@ def text_cleaning(text):
     # Remove page number
     text = re.sub("-\s[0-9]+\s-", '', text)
 
+    # Remove PAUZĂ
+    text = re.sub("PAUZĂ", '', text)
+
     # Remove special characters
     text = re.sub("[^\w\s]", ' ', text)
     
@@ -126,7 +129,7 @@ def assign_timestamps_to_steno(steno_fpath, transcript_fpath):
         # Assign generated timestamps to the steno dataframe
         df_steno['timestamp'] = timestamp
 
-        
+        df_steno[['start', 'end']] = pd.DataFrame(df_steno['timestamp'].tolist(), index=df_steno.index)
 
         save_dataframe(df_steno, fname)
     except:
