@@ -17,6 +17,9 @@ DESTINATION_FOLDER = 'extracted_csvs/'
 
 def text_cleaning(text):
     
+    # Remove PAUZĂ
+    text = re.sub("PAUZĂ", '', text)
+    
     text = text.lower()
     text = text.replace("art.", "art ")
     
@@ -31,9 +34,6 @@ def text_cleaning(text):
 
     # Remove page number
     text = re.sub("-\s[0-9]+\s-", '', text)
-
-    # Remove PAUZĂ
-    text = re.sub("PAUZĂ", '', text)
 
     # Remove special characters
     text = re.sub("[^\w\s]", ' ', text)
