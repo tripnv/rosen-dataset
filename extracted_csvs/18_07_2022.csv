@@ -1,9 +1,9 @@
-,start_text,start_index,end_text,end_index,text,timestamp
-1,S T E N O G R A M A,0,ședinței Senatului din 18 iulie 2022,21, ,"(90.0, 1330.0)"
-2,ședinței Senatului din 18 iulie 2022,21,sesiune extraordinară,63, ,"(90.0, 1330.0)"
-3,sesiune extraordinară,63,,63,,"(90.0, 1330.0)"
-4,,63,S U M A R,93,sesiune extraordinara ,"(90.0, 1330.0)"
-5,S U M A R,93,S T E N O G R A M A,1318, unu aprobarea ordinii de zi si a programului de lucru doi doi informare cu privire la proiectele de lege privind aprobarea unor ordonante de trei urgenta ale guvernului proiectul de lege pentru aprobarea ordonantei de urgenta a guvernului nr o suta noua doua mii douazeci si doi privind unele masuri pentru proiectele de infrastructura de apa si apa uzata finantate din fonduri europene si pentru modificarea unor acte normative ,"(90.0, 1330.0)"
-6,S T E N O G R A M A,1318,şedinţei Senatului din 18 iulie 2022,1339, ,"(90.0, 1330.0)"
-7,şedinţei Senatului din 18 iulie 2022,1339,sesiune extraordinară,1381, ,"(90.0, 1330.0)"
-8,sesiune extraordinară,1381,Domnul Robert-Marius Cazanciuc:,1633, sedinta a inceput la ora paisprezece sapte lucrarile sedintei au fost conduse de domnul robert marius cazanciuc vicepresedinte al senatului asistat de domnul ion mocioalca si domnul eugen pirvulescu secretari ai senatului ,"(90.0, 1330.0)"
+,start_text,start_index,end_text,end_index,text,timestamp,start,end
+1,S T E N O G R A M A,0,ședinței Senatului din 18 iulie 2022,21, ,"(90.0, 1330.0)",90.0,1330.0
+2,ședinței Senatului din 18 iulie 2022,21,sesiune extraordinară,63, ,"(90.0, 1330.0)",90.0,1330.0
+3,sesiune extraordinară,63,,63,,"(90.0, 1330.0)",90.0,1330.0
+4,,63,S U M A R,93,sesiune extraordinara ,"(90.0, 1330.0)",90.0,1330.0
+5,S U M A R,93,S T E N O G R A M A,1318, unu aprobarea ordinii de zi si a programului de lucru doi doi informare cu privire la proiectele de lege privind aprobarea unor ordonante de trei urgenta ale guvernului proiectul de lege pentru aprobarea ordonantei de urgenta a guvernului nr o suta noua doua mii douazeci si doi privind unele masuri pentru proiectele de infrastructura de apa si apa uzata finantate din fonduri europene si pentru modificarea unor acte normative ,"(90.0, 1330.0)",90.0,1330.0
+6,S T E N O G R A M A,1318,şedinţei Senatului din 18 iulie 2022,1339, ,"(90.0, 1330.0)",90.0,1330.0
+7,şedinţei Senatului din 18 iulie 2022,1339,sesiune extraordinară,1381, ,"(90.0, 1330.0)",90.0,1330.0
+8,sesiune extraordinară,1381,Domnul Robert-Marius Cazanciuc:,1633, sedinta a inceput la ora paisprezece sapte lucrarile sedintei au fost conduse de domnul robert marius cazanciuc vicepresedinte al senatului asistat de domnul ion mocioalca si domnul eugen pirvulescu secretari ai senatului ,"(90.0, 1330.0)",90.0,1330.0
