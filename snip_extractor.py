@@ -11,39 +11,40 @@ class SnippetExtractor:
     def __init__(self, pdf_steno, audio_file_path):
 
         self.steno_path = pdf_steno
-        self.audio_file_path = audio_file_path
-        self.audio_file = None
         self.df_steno = None
 
-    @staticmethod
-    def create_output_folder():
+        self.audio_file_path = audio_file_path
+        self.audio_file = None
+
+        self.input_folder_path = None
+        self.target_folder_path = None
+        self.sample_folder_path = None
+
+    def create_output_folder(self):
         """
         Create output folder for speach-to-text dataset.
         The file should be created in the same folder as the project. (filename: "dataset")
         """
-        current_folder_path = os.path.dirname(os.path.realpath(__file__))
-        folder_wav_output = os.path.join(current_folder_path, "dataset")
+        project_folder_path = os.path.dirname(os.path.realpath(__file__))
 
-        input_folder = os.path.join(folder_wav_output, "input")
-        target_folder = os.path.join(folder_wav_output, "target")
+        dataset_folder_path = os.path.join(project_folder_path, "dataset")
+        if not os.path.exists(dataset_folder_path):
+            os.makedirs(dataset_folder_path)
 
-        if not os.path.exists(folder_wav_output):
-            os.makedirs(folder_wav_output)
-        else:
-            shutil.rmtree(folder_wav_output)
-            os.makedirs(folder_wav_output)
+        audio_sample_name = os.path.splitext(os.path.basename(self.audio_file_path))[0]
+        self.sample_folder_path = os.path.join(dataset_folder_path, audio_sample_name)
 
-        if not os.path.exists(input_folder):
-            os.makedirs(input_folder)
-        else:
-            shutil.rmtree(input_folder)
-            os.makedirs(input_folder)
+        self.input_folder_path = os.path.join(self.sample_folder_path, "input")
+        self.target_folder_path = os.path.join(self.sample_folder_path, "target")
 
-        if not os.path.exists(target_folder):
-            os.makedirs(target_folder)
-        else:
-            shutil.rmtree(target_folder)
-            os.makedirs(target_folder)
+        folders_to_create = [self.sample_folder_path, self.input_folder_path, self.target_folder_path]
+
+        for folder_path in folders_to_create:
+            if not os.path.exists(folder_path):
+                os.makedirs(folder_path)
+            else:
+                shutil.rmtree(folder_path)
+                os.makedirs(folder_path)
 
     def extract_timestamps_from_audio(self):
         """
@@ -51,17 +52,13 @@ class SnippetExtractor:
         :return:
         """
 
-        steno_sample = self.df_steno['text']
+        steno_sample = self.df_steno['original_text']
         start_timestamp = self.df_steno['start']
         end_timestamp = self.df_steno['end']
 
-        current_folder_path = os.path.dirname(os.path.realpath(__file__))
-        folder_wav_output = os.path.join(current_folder_path, "dataset")
-
-        input_folder = os.path.join(folder_wav_output, "input")
-        output_folder = os.path.join(folder_wav_output, "target")
-
         length = len(steno_sample)
+
+        audio_sample_name = os.path.splitext(os.path.basename(self.audio_file_path))[0]
 
         for index in range(length):
             print(f"Timestamp {index} / {length + 1}")
@@ -78,10 +75,10 @@ class SnippetExtractor:
 
             audio = self.audio_file[current_start_timestamp: current_end_timestamp]
 
-            audio.export(os.path.join(input_folder, f"audio_{index}.mp3"), format='wav')
+            audio.export(os.path.join(self.input_folder_path, f"{audio_sample_name}_{index}.mp3"), format='mp3')
 
-            with open(os.path.join(output_folder, f"text_{index}.json"), 'w') as f:
-                json.dump({'text': current_steno}, f)
+            with open(os.path.join(self.target_folder_path, f"{audio_sample_name}_{index}.json"), 'w', encoding='utf-8') as f:
+                json.dump({'text': current_steno}, f, ensure_ascii=False)
 
     def create_samples(self):
 
@@ -98,10 +95,11 @@ class SnippetExtractor:
 
 
 if __name__ == '__main__':
-
     steno = "/Users/andreibobes/Documents/Projects/NLP2/new_steno_21_decembrie_2022_timestamps.csv"
     audio_file = "/Users/andreibobes/Documents/Projects/NLP2/old/wav_outputs/Ședința Senatului României din data de " \
                  "21 Decembrie 202200001.wav"
 
     snip_ext = SnippetExtractor(steno, audio_file)
     snip_ext.create_samples()
+
+    # sa iau denumirea fisierului audio (12.24.2022.wav) ->
